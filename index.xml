@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jerry&#39;s Site</title>
-    <link>http://shanghai-jerry.github.io/mysite/</link>
+    <link>http://you.github.io/</link>
     <description>Recent content on Jerry&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Sep 2019 11:50:16 +0800</lastBuildDate>
     
-	<atom:link href="http://shanghai-jerry.github.io/mysite/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://you.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>LLBgo</title>
-      <link>http://shanghai-jerry.github.io/mysite/post/llbgo/</link>
+      <link>http://you.github.io/post/llbgo/</link>
       <pubDate>Thu, 19 Sep 2019 11:50:16 +0800</pubDate>
       
-      <guid>http://shanghai-jerry.github.io/mysite/post/llbgo/</guid>
+      <guid>http://you.github.io/post/llbgo/</guid>
       <description>llbgo is a go application including many different commands, It&amp;rsquo;s a combination of all go applications developed in ai group.
 More Details</description>
     </item>
     
     <item>
       <title>猎萝卜</title>
-      <link>http://shanghai-jerry.github.io/mysite/post/lieluobo/</link>
+      <link>http://you.github.io/post/lieluobo/</link>
       <pubDate>Thu, 19 Sep 2019 11:07:59 +0800</pubDate>
       
-      <guid>http://shanghai-jerry.github.io/mysite/post/lieluobo/</guid>
+      <guid>http://you.github.io/post/lieluobo/</guid>
       <description>Overview A company I work in.
 If you are interested in, you can find more details here 猎萝卜 .
 Come on and join us.</description>
@@ -34,10 +34,10 @@ Come on and join us.</description>
     
     <item>
       <title>About</title>
-      <link>http://shanghai-jerry.github.io/mysite/about/</link>
+      <link>http://you.github.io/about/</link>
       <pubDate>Thu, 19 Sep 2019 10:48:33 +0800</pubDate>
       
-      <guid>http://shanghai-jerry.github.io/mysite/about/</guid>
+      <guid>http://you.github.io/about/</guid>
       <description>Intrduction. My working details in lieluobo Inc are putting here.
 More working documents in Confluence
 You can also find me here MyProfile</description>
