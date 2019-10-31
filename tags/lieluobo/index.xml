@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>lieluobo on Jerry&#39;s Site</title>
-    <link>http://you.github.io/tags/lieluobo/</link>
+    <link>http://shanghai-jerry.github.io/mysite/tags/lieluobo/</link>
     <description>Recent content in lieluobo on Jerry&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Sep 2019 10:48:33 +0800</lastBuildDate>
     
-	<atom:link href="http://you.github.io/tags/lieluobo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://shanghai-jerry.github.io/mysite/tags/lieluobo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://you.github.io/about/</link>
+      <link>http://shanghai-jerry.github.io/mysite/about/</link>
       <pubDate>Thu, 19 Sep 2019 10:48:33 +0800</pubDate>
       
-      <guid>http://you.github.io/about/</guid>
+      <guid>http://shanghai-jerry.github.io/mysite/about/</guid>
       <description>Intrduction. My working details in lieluobo Inc are putting here.
 More working documents in Confluence
 You can also find me here MyProfile</description>

@@ -3,62 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://you.github.io/post/ai_tools/</loc>
-    <lastmod>2019-09-19T13:26:04+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://you.github.io/</loc>
-    <lastmod>2019-09-19T13:26:04+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://you.github.io/post/</loc>
-    <lastmod>2019-09-19T13:26:04+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://you.github.io/post/lieluobo%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84/</loc>
-    <lastmod>2019-09-19T11:54:05+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://you.github.io/post/llbgo/</loc>
+    <loc>http://shanghai-jerry.github.io/mysite/</loc>
     <lastmod>2019-09-19T11:50:16+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://you.github.io/post/lieluobo/</loc>
+    <loc>http://shanghai-jerry.github.io/mysite/post/llbgo/</loc>
+    <lastmod>2019-09-19T11:50:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://shanghai-jerry.github.io/mysite/post/</loc>
+    <lastmod>2019-09-19T11:50:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://shanghai-jerry.github.io/mysite/post/lieluobo/</loc>
     <lastmod>2019-09-19T11:07:59+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://you.github.io/about/</loc>
+    <loc>http://shanghai-jerry.github.io/mysite/about/</loc>
     <lastmod>2019-09-19T10:48:33+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://you.github.io/categories/</loc>
+    <loc>http://shanghai-jerry.github.io/mysite/categories/</loc>
     <lastmod>2019-09-19T10:48:33+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://you.github.io/tags/lieluobo/</loc>
+    <loc>http://shanghai-jerry.github.io/mysite/categories/lieluobo/</loc>
     <lastmod>2019-09-19T10:48:33+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://you.github.io/categories/lieluobo/</loc>
+    <loc>http://shanghai-jerry.github.io/mysite/tags/lieluobo/</loc>
     <lastmod>2019-09-19T10:48:33+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://you.github.io/tags/</loc>
+    <loc>http://shanghai-jerry.github.io/mysite/tags/</loc>
     <lastmod>2019-09-19T10:48:33+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://you.github.io/series/</loc>
+    <loc>http://shanghai-jerry.github.io/mysite/series/</loc>
   </url>
   
 </urlset>

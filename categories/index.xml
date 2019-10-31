@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jerry&#39;s Site</title>
-    <link>http://you.github.io/categories/</link>
+    <link>http://shanghai-jerry.github.io/mysite/categories/</link>
     <description>Recent content in Categories on Jerry&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Sep 2019 10:48:33 +0800</lastBuildDate>
     
-	<atom:link href="http://you.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://shanghai-jerry.github.io/mysite/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>lieluobo</title>
-      <link>http://you.github.io/categories/lieluobo/</link>
+      <link>http://shanghai-jerry.github.io/mysite/categories/lieluobo/</link>
       <pubDate>Thu, 19 Sep 2019 10:48:33 +0800</pubDate>
       
-      <guid>http://you.github.io/categories/lieluobo/</guid>
+      <guid>http://shanghai-jerry.github.io/mysite/categories/lieluobo/</guid>
       <description></description>
     </item>
     
